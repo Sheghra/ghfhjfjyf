@@ -1,1 +1,87 @@
-nvggyjudrgfhjk
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ryan Gosling Fan Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        h1 {
+            margin: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        img {
+            max-width: 100%;
+            border-radius: 8px;
+        }
+        .movie-list {
+            list-style-type: none;
+            padding: 0;
+        }
+        .movie-list li {
+            margin: 10px 0;
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Ryan Gosling Fan Page</h1>
+</header>
+
+<div class="container">
+    <h2>About Ryan Gosling</h2>
+    <p>Ryan Gosling is a Canadian actor, director, and musician. He is known for his versatile roles in films such as "La La Land," "Drive," and "The Notebook." With his charming looks and incredible talent, he has won the hearts of many fans around the world.</p>
+
+    <h2>Gallery</h2>
+    <img src="https://example.com/ryan-gosling1.jpg" alt="Ryan Gosling">
+    <img src="https://example.com/ryan-gosling2.jpg" alt="Ryan Gosling">
+
+    <h2>Popular Movies</h2>
+    <ul class="movie-list">
+        <li><a href="https://www.imdb.com/title/tt0780504/" target="_blank">La La Land (2016)</a></li>
+        <li><a href="https://www.imdb.com/title/tt0780504/" target="_blank">Drive (2011)</a></li>
+        <li><a href="https://www.imdb.com/title/tt0290673/" target="_blank">The Notebook (2004)</a></li>
+        <li><a href="https://www.imdb.com/title/tt1655441/" target="_blank">Blade Runner 2049 (2017)</a></li>
+        <li><a href="https://www.imdb.com/title/tt0457430/" target="_blank">Crazy, Stupid, Love (2011)</a></li>
+    </ul>
+
+    <h2>Follow Ryan</h2>
+    <p>Stay updated with Ryan's latest projects and news:</p>
+    <ul>
+        <li><a href="https://twitter.com/ryangosling" target="_blank">Twitter</a></li>
+        <li><a href="https://www.instagram.com/ryangosling/" target="_blank">Instagram</a></li>
+        <li><a href="https://www.facebook.com/ryangosling" target="_blank">Facebook</a></li>
+    </ul>
+</div>
+
+<footer>
+    <p>&copy; 2023 Ryan Gosling Fan Page. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
